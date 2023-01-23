@@ -1,0 +1,17 @@
+{
+  "name": "hentai-bomber-hairo",
+  "version": "1.0.0",
+  "description": "bomb hentai",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "superagent": "^6.1.0",
+    "v11-discord.js": "^11.5.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TaxMachine",
+  "license": "ISC"
+}
