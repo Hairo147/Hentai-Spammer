@@ -15,7 +15,6 @@ console.log(`
                                     Welcome ${client.user.tag}                                                        
                                                                          
                                                                                     `.cyan)
-console.log(`                               Waifu.`.green)
 });
 client.on("message", message => {
         if (message.content.startsWith(`call911`)) {
