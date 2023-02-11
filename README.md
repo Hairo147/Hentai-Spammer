@@ -8,4 +8,5 @@ bomb a discord channel with hentai
   <li>Enter your discord token in the config.json</li>
   <li>Enjoy, the command is call911</li>
   <li>u dont need to prefix :)</li>
+  <li> Good Uses and Have Fun</li>
 </ul>
